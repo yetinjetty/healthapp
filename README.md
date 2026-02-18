@@ -1,7 +1,7 @@
 # healthapp
 **Sustainable Development Goal: SDG 3 – Good Health and Well-Being**
 
---
+---
 
 ## Team Members
 - Justin Tan Jiing Wen
@@ -10,7 +10,7 @@
 - Nikhil Purlackee
 - Keith Chan Kye Minn
 
---
+---
 
 ## SDLC & Agile Approach
 This project follows Agile methodology using Scrum practices:
@@ -20,7 +20,7 @@ This project follows Agile methodology using Scrum practices:
 - Trello for task management
 - GitHub for version control and SDLC documentation
   
---
+---
 
 ## Repository Structure
 - `/planning` – Vision, user stories, backlog
