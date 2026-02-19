@@ -22,7 +22,7 @@ This project follows Agile methodology using Scrum practices:
   
 ---
 
-## 📊 Project Management Board
+## Project Management Board
 Trello Board: [HealthApp Scrum Board](https://trello.com/invite/b/6996a5f70191ef93ed8bdf1e/ATTI671ce7b470a4f79ef9d5489e02a3b8b9E7FB60E6/preventive-healthcare-and-early-detection)
 
 ---
