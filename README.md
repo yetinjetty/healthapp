@@ -1,4 +1,4 @@
-# healthapp
+# HealthApp – Preventive Healthcare Monitoring System
 **Sustainable Development Goal: SDG 3 – Good Health and Well-Being**
 
 ---
@@ -20,6 +20,49 @@ This project follows Agile methodology using Scrum practices:
 - Trello for task management
 - GitHub for version control and SDLC documentation
   
+---
+
+## Project Overview
+HealthApp is a preventive healthcare monitoring system designed to promote early detection and preventive health practices among university students.
+The application allows students to record basic health indicators, receive preventive health reminders, and book campus clinic appointments.
+The system supports Sustainable Development Goal 3 (Good Health and Well-Being) by encouraging proactive health monitoring and timely medical consultation.
+
+---
+
+## Project Objectives
+- Promote preventive healthcare awareness among university students
+- Encourage early detection of potential health risks
+- Provide a simple and accessible health monitoring platform
+- Support timely medical consultation through appointment booking
+
+---
+
+## Problem Statement
+Many university students neglect preventive healthcare due to academic workload and a lack of awareness.
+Minor health indicators such as poor sleep patterns, high blood pressure, or irregular exercise habits are often ignored until serious conditions develop.
+
+There is a need for a simple digital platform that promotes early awareness and encourages students to take preventive action.
+
+---
+
+## Core Features
+- Student Registration & Login
+- Record Health Indicators (BMI, Blood Pressure, Sleep, Exercise)
+- Health Summary Dashboard
+- Preventive Health Reminders
+- Book & Cancel Campus Clinic Appointments
+- Admin Manage Screening Schedule
+
+---
+
+## Target Users
+**Primary Users:** 
+- University students
+
+**Secondary Users:** 
+- Campus Clinic Staff
+- System Administrators
+
 ---
 
 ## Repository Structure
