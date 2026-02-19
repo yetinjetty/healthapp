@@ -4,11 +4,11 @@
 ---
 
 ## Team Members
-- Justin Tan Jiing Wen (0373968)
-- Lucius Long Kai Xuan (0390188)
-- Tan Joon Boon (0383472)
-- Nikhil Purlackee (0383690)
-- Keith Chan Kye Minn (0380387)
+- Justin Tan Jiing Wen (0373968) - Development & Integration Lead
+- Lucius Long Kai Xuan (0390188) - Testing & Quality Assurance Lead
+- Tan Joon Boon (0383472) - Lead UI/UX Designer
+- Nikhil Purlackee (0383690) - Product Owner
+- Keith Chan Kye Minn (0380387) - Scrum Master
 
 ---
 
