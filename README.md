@@ -4,11 +4,11 @@
 ---
 
 ## Team Members
-- Justin Tan Jiing Wen
-- Lucius Long Kai Xuan
-- Tan Joon Boon
-- Nikhil Purlackee
-- Keith Chan Kye Minn
+- Justin Tan Jiing Wen (0373968)
+- Lucius Long Kai Xuan (0390188)
+- Tan Joon Boon (0383472)
+- Nikhil Purlackee (0383690)
+- Keith Chan Kye Minn (0380387)
 
 ---
 
