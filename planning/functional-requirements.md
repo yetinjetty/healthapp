@@ -31,6 +31,6 @@ Functional Requirements (HealthApp)
 
 **F. Admin Schedule Management**
 
-FR15 The system shall allow an admin to create screening schedules (date/time slots/capacity).
-FR16 The system shall allow an admin to update screening schedules.
-FR17 The system shall allow an admin to delete screening schedules.
+- FR15 The system shall allow an admin to create screening schedules (date/time slots/capacity).
+- FR16 The system shall allow an admin to update screening schedules.
+- FR17 The system shall allow an admin to delete screening schedules.
