@@ -1,4 +1,4 @@
-# CareU – Preventive Healthcare Monitoring System
+# HealthApp – Preventive Healthcare Monitoring System
 **Sustainable Development Goal: SDG 3 – Good Health and Well-Being**
 
 ---
@@ -28,7 +28,7 @@ Trello Board: [HealthApp Scrum Board](https://trello.com/invite/b/6996a5f70191ef
 ---
 
 ## Project Overview
-CareU is a preventive healthcare monitoring system designed to promote early detection and preventive health practices among university students.
+HealthApp is a preventive healthcare monitoring system designed to promote early detection and preventive health practices among university students.
 The application allows students to record basic health indicators, receive preventive health reminders, and book campus clinic appointments.
 The system supports Sustainable Development Goal 3 (Good Health and Well-Being) by encouraging proactive health monitoring and timely medical consultation.
 
