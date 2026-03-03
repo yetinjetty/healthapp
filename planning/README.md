@@ -1,6 +1,6 @@
 # Planning Phase
 
-This folder contains all documentation related to the planning and requirement analysis of the HealthApp project.
+This folder contains all documentation related to the planning and requirement analysis of the CareU project.
 
 The planning phase includes:
 
