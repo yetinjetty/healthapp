@@ -1,4 +1,4 @@
-# HealthApp – Preventive Healthcare Monitoring System
+# CareU – Preventive Healthcare Monitoring System
 **Sustainable Development Goal: SDG 3 – Good Health and Well-Being**
 
 ---
