@@ -1,0 +1,19 @@
+Test Execution:
+
+| Test ID | Reference | Description | Inputs | Expected Result | Actual Result | Test Result |
+| --- | --- | --- | --- | --- | --- | --- |
+| TC - 01 | FR1, FR2 | Register and log in using valid credentials | Email address, Password | Login successful, user is redirected to Home page | Login successful, user redirected to Home page | Pass |
+| TC - 02 | FR3 | Update profile details | Age, Height and Weight data | Successful, the new data is saved in the database | Successful, the new data is saved in the database | Pass |
+| TC - 03 | FR4 | Record health indicators | Systolic, Diastolic, Sleep Duration, Exercise, BPM and Exercise Duration | Successful, new record is saved in database | Successful, new record is saved in database | Pass |
+| TC - 04 | FR5, FR6 | Validate input and view health dashboard | \-  | Successful, Daily Summary section will show the latest health record data | Successful, Daily Summary section will show the latest health record data | Pass |
+| TC - 05 | FR7 | View health record history | \-  | Successful, system will display the record inputs with the date of record, and user able to view sorted data | Successful, system will display the record inputs with the date of record, and user able to view sorted data | Pass |
+| TC - 06 | FR8, FR9 | Receive preventive health reminders | \-  | Successful, system will display the alert on the Home page with a View Details button | Successful, system will display the alert on the Home page with a View Details button | Pass |
+| TC - 07 | FR10, FR11 | View available clinic slots and book an appointment | \-  | Successful, system will display the calendar schedule with legends to help user view, and user is able to book appointment | Successful, system will display the calendar schedule with legends to help user view, and user is able to book appointment | Pass |
+| TC - 08 | FR12 | Cancel appointment | \-  | Successful, user can cancel appointment | Successful, user can cancel appointment | Pass |
+| TC - 09 | FR13 | View appointment request submitted by students | \-  | Successful, staff can view appointment request submitted by students | Successful, staff can view appointment request submitted by students | Pass |
+| TC - 10 | FR14 | Update appointment status (Accept, Reject, Cancel) | \-  | Successful, staff can update appointment status (Accept, Reject, Cancel) | Successful, staff can update appointment status (Accept, Reject, Cancel) | Pass |
+| TC - 11 | FR15, FR16, FR17 | Create, Update and Delete screening schedule | Date, Appointment Time, Slots | Successful, admin can manage schedule (Create, Update, Delete) | Successful, admin can manage schedule (Create, Update, Delete) | Pass |
+| TC - 12 | FR1 | Negative Test - Blank Fields | Email Address (Blank), Password (Blank) | After execution, error notification pops up, restrict user from login | After execution, user able to log in | Fail |
+| TC - 13 | FR3 | Boundary Test - Invalid Inputs | Age (120), Height (250), Weight (200) | After execution, error notification pops up, restrict user from saving changes, data is not recorded in database | After execution, error notification pops up, restrict user from saving changes, data is not recorded in database | Pass |
+| TC - 14 | FR4 | Boundary Test - Invalid Inputs | Systolic (200), Diastolic (200), Sleep Duration (50), BPM (500), Exercise Duration (50) | After execution, error notification pops up, restrict user from saving changes, data is not recorded in database | After execution, error notification pops up, restrict user from saving changes, data is not recorded in database | Pass |
+| TC - 15 | FR10, FR11 | Negative Test - Selection Error | \-  | After execution, error notification pops up, restrict user from selecting that date | User able to select date, and fill in the details for appointment | Fail |
