@@ -2,9 +2,9 @@ Test Summary:
 
 | **Total Test Case** | **Total Test Execution** | **Passed Test Execution** | **Failed Test Execution** | **Percentage of Pass** |
 | --- | --- | --- | --- | --- |
-| 15  | 15  | 13  | 2   | 80.00% |
+| 15  | 15  | 12  | 3   | 80.00% |
 
-The testing phase successfully evaluated the functionality and usability of the prototype. A total of 15 test cases were executed, and 13 passed while 2 failed, giving it a passing rate of 86.67%. Usability testing indicated that users were able to complete tasks without any critical defects. Defect management indicated that there are some minor defects that are identified and fixed. Overall, the prototype meets the defined user system requirements and provides a solid foundation for further system development.
+The testing phase successfully evaluated the functionality and usability of the prototype. A total of 15 test cases were executed, and 12 passed while 3 failed, giving it a passing rate of 80.00%. Usability testing indicated that users were able to complete tasks without any critical defects. Defect management indicated that there are some minor defects that are identified and fixed. Overall, the prototype meets the defined user system requirements and provides a solid foundation for further system development.
 
 Sprint 2 Observation and Suggestion:
 
